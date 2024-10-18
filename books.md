@@ -8,5 +8,6 @@ permalink: /books/
 
 Here, I keep track of all the books I've read and reviewed.
 
-- [Book Title 1](./_posts/YYYY-MM-DD-book-title-1.md)
-- [Book Title 2](./_posts/YYYY-MM-DD-book-title-2.md)
+- [Four Agreements By Don Miguel Ruiz](./_posts/2024-10-18-four-agreements.md)
+- [The Power Of Now By Eckhart Tolle](./_posts/2024-10-18-power-of-now.md)
+
