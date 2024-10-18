@@ -1,7 +1,7 @@
 ---
 title: "The Power of Now"
 author: "Eckhart Tolle"
-date: YYYY-MM-DD
+date: 2024-10-18
 tags: [self-help, spirituality, mindfulness]
 ---
 
