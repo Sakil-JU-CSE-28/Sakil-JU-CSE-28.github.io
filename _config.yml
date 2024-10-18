@@ -1,15 +1,11 @@
 title: "Sakil Ahmed's Book Tracker Blog"
 description: "A curated collection of book reviews and reflections on my literary journey."
 theme: minima  # Consider exploring premium themes for a unique look
-logo: /assets/images/custom-logo.png  # Custom logo (upload your own logo)
-header_image: /assets/images/header-image.jpg  # Add a personalized header image
 
 social_links:
-  github: https://github.com/Sakil-Ahmed  # Add links to your GitHub profile
+  github: https://github.com/Sakil-Ahmed  # Link to your GitHub profile
   linkedin: https://www.linkedin.com/in/sakil-ahmed-289523198/  # LinkedIn profile link
-  twitter: https://twitter.com/your-twitter-handle  # Twitter link (if available)
-
-custom_css: /assets/css/custom-styles.css  # Add custom styles for a unique design
+  
 
 # SEO Enhancements
 seo:
@@ -38,8 +34,8 @@ minima:
   social_links_display: true  # Enable social icons in the header/footer
   accent_color: "#ff5733"  # Choose a custom color to highlight specific elements
   fonts:  # Customized fonts for a personalized look
-    body: 'Open Sans', sans-serif
-    headers: 'Lora', serif
+  body: "'Open Sans', sans-serif"
+  headers: "'Lora', serif"
 
 # Navigation Enhancements
 navigation:
