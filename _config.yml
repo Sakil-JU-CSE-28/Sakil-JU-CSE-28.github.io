@@ -3,17 +3,24 @@ description: "A curated collection of book reviews and reflections on my literar
 theme: minima  # Consider exploring premium themes for a unique look
 logo: /assets/images/custom-logo.png  # Custom logo (upload your own logo)
 header_image: /assets/images/header-image.jpg  # Add a personalized header image
+
 social_links:
   github: https://github.com/Sakil-Ahmed  # Add links to your GitHub profile
   linkedin: https://www.linkedin.com/in/sakil-ahmed-289523198/  # LinkedIn profile link
   twitter: https://twitter.com/your-twitter-handle  # Twitter link (if available)
+
 custom_css: /assets/css/custom-styles.css  # Add custom styles for a unique design
 
 # SEO Enhancements
 seo:
   title: "Book Reviews and Reflections | Sakil Ahmed's Blog"
   description: "Explore thoughtful book reviews and insights from Sakil Ahmed, covering a range of genres from fiction to technology."
-  keywords: ["book reviews", "Sakil Ahmed", "literary blog", "reading journey", "thoughtful insights"]
+  keywords:
+    - "book reviews"
+    - "Sakil Ahmed"
+    - "literary blog"
+    - "reading journey"
+    - "thoughtful insights"
   author: "Sakil Ahmed"
 
 # Blog Enhancements
