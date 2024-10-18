@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "My Favorite Book"
-date: YYYY-MM-DD
+title: "The Four Agreements"
+date: 2024-10-18
 categories: books review
-tags: [fiction, mystery]
+tags: [self-help, philosophy]
 ---
 
 ## Summary
